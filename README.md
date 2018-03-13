@@ -1,2 +1,2 @@
 # BMI-Calculator-master
-It calculates the BMI of an user
+It is an android application that calculates the BMI of an user
